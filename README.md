@@ -1,4 +1,4 @@
-# GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting
+# MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders
 
 ## Overview
 ![overview](./static/images/pipeline.png)
